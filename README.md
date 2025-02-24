@@ -18,7 +18,7 @@ Usage
 
 To start the application, run:
 
-streamlit run main.py
+streamlit run agent.py
 
 Query Types Supported
 
@@ -26,7 +26,7 @@ Problem Solver: Solves complex questions, provides solutions with explanations, 
 
 Project Structure
 
-main.py: Initializes the Streamlit application and connects user inputs to the agents. agents/: Contains agent-specific code and configurations for handling distinct query types. utils/: Utility functions for managing API calls, caching, and other background processes. requirements.txt: Lists all required packages for easy setup.
+agent.py: Initializes the Streamlit application and connects user inputs to the agents. agents/: Contains agent-specific code and configurations for handling distinct query types. utils/: Utility functions for managing API calls, caching, and other background processes. requirements.txt: Lists all required packages for easy setup.
 
 How It Works
 
