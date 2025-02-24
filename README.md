@@ -36,9 +36,6 @@ Future Enhancements
 
 Additional Agents: Plan to add more agents for data analysis, NLP processing, or user-defined tasks. Direct Agent Communication: Enable agents to share insights or collaboratively solve complex queries. Enhanced User Metrics: Track agent performance and accuracy to continuously improve responses.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
 
